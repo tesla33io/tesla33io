@@ -4,6 +4,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tesla33io&style=flat-square&color=blue" alt=""/>
+
+  [![imgage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-stavropolov/)
 </div>
 
 <hr>
@@ -15,8 +17,6 @@
 - 🔐 I'm interested in cyber security
 - 🏡 Freelancer
 - 🎓 [42 Berlin](https://42berlin.de/) student
-
-:mailbox: How to reach me: [![imgage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-stavropolov/)
 
 ### 🔧 Languages & Tools:
 
