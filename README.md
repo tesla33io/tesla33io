@@ -13,7 +13,7 @@
 ### :bowtie: About me:
 🐍Python developer from Ukraine🇺🇦
 
-- 💻 I am engaged in software development (mainly web)
+- 💻 I am engaged in software development
 - 🔐 I'm interested in cyber security
 - 🏡 Freelancer
 - 🎓 [42 Berlin](https://42berlin.de/) student
