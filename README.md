@@ -16,6 +16,15 @@
 Tech enthusiast on a mission to code and collaborate! 🚀 Always up for new projects, partnerships, and learning experiences. Let's connect via [LinkedIn](https://www.linkedin.com/in/artem-stavropolov/). Together, let's level up the tech world and shape a brighter tomorrow! ✨💻
 
 <details>
+	<summary>😇 About me</summary>
+<p>I've been programming since I was 14 years old, driven by a love for creating new and interesting software in various ways. In my free time, I enjoy exploring fresh technologies, reading about the newest trends in the tech industry, and helping with open-source projects.
+
+I'm a self-taught coder, and I've learned most of what I know through online guides, classes, and practice. I'm always eager to learn new things and seek out new challenges. I strongly believe in open-source software principles.
+
+I'm interested in cyber security and want to learn more about how to keep systems safe from attacks. I'm also curious about embedded systems, which are small computers used in many devices like cars, phones, and appliances. I think these areas are really important and have the potential to make the world a better place.</p>
+</details>
+
+<details>
 <summary>🛠 Tools</summary>
 
 <h4 id="programming-languages-">Programming Languages:</h4>
@@ -30,15 +39,6 @@ Tech enthusiast on a mission to code and collaborate! 🚀 Always up for new pro
 <p><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&amp;logo=vim&amp;logoColor=white" alt="Vim"> <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&amp;logo=obsidian&amp;logoColor=white" alt="Obsidian"></p>
 <h4 id="platforms-">Platforms:</h4>
 <p><a href="https://tesla33io.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&amp;logo=itchdotio&amp;logoColor=white" alt="image"></a> <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&amp;logo=Hack%20The%20Box&amp;logoColor=9FEF00" alt="image"> <a href="https://www.codewars.com/users/tesla33IO"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&amp;logo=Codewars&amp;logoColor=white" alt="image"></a></p>
-</details>
-
-<details>
-	<summary>😇 About me</summary>
-<p>I've been programming since I was 14 years old, driven by a love for creating new and interesting software in various ways. In my free time, I enjoy exploring fresh technologies, reading about the newest trends in the tech industry, and helping with open-source projects.
-
-I'm a self-taught coder, and I've learned most of what I know through online guides, classes, and practice. I'm always eager to learn new things and seek out new challenges. I strongly believe in open-source software principles.
-
-I'm interested in cyber security and want to learn more about how to keep systems safe from attacks. I'm also curious about embedded systems, which are small computers used in many devices like cars, phones, and appliances. I think these areas are really important and have the potential to make the world a better place.</p>
 </details>
 
 <details>
