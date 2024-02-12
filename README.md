@@ -13,7 +13,7 @@
 </div>
 
 
-Tech enthusiast on a mission to code and collaborate! 🚀 Always up for new projects, partnerships, and learning experiences. Let's connect via [LinkedIn](https://www.linkedin.com/in/artem-stavropolov/) or find me on [GitHub](https://github.com/tesla33io). Together, let's level up the tech world and shape a brighter tomorrow! ✨💻
+Tech enthusiast on a mission to code and collaborate! 🚀 Always up for new projects, partnerships, and learning experiences. Let's connect via [LinkedIn](https://www.linkedin.com/in/artem-stavropolov/). Together, let's level up the tech world and shape a brighter tomorrow! ✨💻
 
 <details>
 <summary>🛠 Tools</summary>
