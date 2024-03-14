@@ -42,11 +42,6 @@ I'm interested in cyber security and want to learn more about how to keep system
 </details>
 
 <details>
-	<summary>🗣 Languages</summary>
-	<p><a href="https://forthebadge.com"><img src="https://raw.githubusercontent.com/tesla33io/tesla33io/main/german-b1.svg" alt="GERMAN"></a>   <a href="https://forthebadge.com"><img src="https://raw.githubusercontent.com/tesla33io/tesla33io/main/english-b2.svg" alt="ENGLISH"></a>   <a href="https://forthebadge.com"><img src="https://raw.githubusercontent.com/tesla33io/tesla33io/main/ukrainian-native.svg" alt="UKRAINIAN"></a></p>
-</details>
-
-<details>
 	<summary>🔥 My stats</summary>
 
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tesla33io&amp;theme=dark" alt="GitHub Streak"></a>
