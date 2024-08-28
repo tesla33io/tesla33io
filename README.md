@@ -6,7 +6,7 @@
 	<img src="https://komarev.com/ghpvc/?username=tesla33io&style=flat-square&color=blue" alt=""/>
 </div>
 
-I'm a self-taught programmer passionate about open-source software and interested in cyber security and embedded systems.
+I'm a self-taught programmer passionate about open-source software and interested in cyber security and embedded development.
 
 
 Working with: ![C](https://img.shields.io/badge/-424242?style=flat&logo=C&link=https%3A%2F%2Fwww.cprogramming.com%2F) ![Python3](https://img.shields.io/badge/-python3-FFDE57?style=flat&logo=Python&labelColor=FFDE57&color=424242&link=https%3A%2F%2Fwww.python.org%2F) ![nvim](https://img.shields.io/badge/-neovim-424242?style=flat&logo=Neovim&link=https%3A%2F%2Fneovim.io%2F)
