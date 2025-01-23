@@ -16,7 +16,7 @@ Learning: ![rust](https://img.shields.io/badge/-rust-424242?style=flat&logo=Rust
 <details>
 	<summary>👀</summary>
 
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tesla33io&amp;theme=dark" alt="GitHub Streak"></a>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=tesla33io&theme=dark" alt="GitHub Streak"></a>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesla33io&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs"></a></p>
 
