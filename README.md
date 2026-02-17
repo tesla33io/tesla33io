@@ -13,11 +13,16 @@ I like applying programming to solve scientific and technical problems.
 <p><b>Working with:</b><br>
     <img src="https://img.shields.io/badge/-Python-424242?style=flat&logo=Python">
     <img src="https://img.shields.io/badge/-C-424242?style=flat&logo=C">
-    <img src="https://img.shields.io/badge/-C++-424242?style=flat&logo=C%2B%2B"></p>
+    <img src="https://img.shields.io/badge/-C++-424242?style=flat&logo=C%2B%2B">
+    <img src="https://img.shields.io/badge/-Linux-424242?style=flat&logo=Linux">
+</p>
 <p><b>Exploring:</b><br>
-    <img src="https://img.shields.io/badge/-Rust-424242?style=flat&logo=Rust">
-    <img src="https://img.shields.io/badge/-SciPy-424242?style=flat&logo=Scipy">
-    <img src="https://img.shields.io/badge/-NumPy-424242?style=flat&logo=Numpy"></p>
+    <img src="https://img.shields.io/badge/-Julia-424242?style=flat&logo=Julia">
+    <img src="https://img.shields.io/badge/-PyTorch-424242?style=flat&logo=PyTorch">
+    <img src="https://img.shields.io/badge/-Tensorflow-424242?style=flat&logo=Tensorflow">
+    <img src="https://img.shields.io/badge/-NumPy-424242?style=flat&logo=Numpy">
+    <img src="https://img.shields.io/badge/-Docker-424242?style=flat&logo=Docker">
+</p>
 </div>
 
 <details>
