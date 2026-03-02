@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 </div>
 
-<div align="center">
-	<img src="https://komarev.com/ghpvc/?username=tesla33io&style=flat-square&color=blue" alt=""/>
-</div>
-
 Interested in physics, scientific computing, and R&D.<br>
 I like applying programming to solve scientific and technical problems.
 
@@ -30,6 +26,9 @@ I like applying programming to solve scientific and technical problems.
 
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=tesla33io&theme=dark" alt="GitHub Streak"></a>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesla33io&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs"></a></p>
 
 </details>
+
+<div align="right">
+	<img src="https://komarev.com/ghpvc/?username=tesla33io&style=plastic&color=gray" alt=""/>
+</div>
