@@ -2,24 +2,62 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 </div>
 
-Interested in physics, scientific computing, and R&D.<br>
-I like applying programming to solve scientific and technical problems.
+# Hi, I'm Artem 👋
 
-<div style="display: flex; justify-content: space-between;">
+Physics student focused on scientific computing and low-level systems.  
+I enjoy applying programming to solve complex scientific and technical problems.
+
+## Interests
+
+- Scientific Computing
+- High Performance Computing
+- Embedded Systems
+- Systems Programming
+- Physics simulations
+
+## Tech Stack
+
 <p><b>Working with:</b><br>
     <img src="https://img.shields.io/badge/-Python-424242?style=flat&logo=Python">
     <img src="https://img.shields.io/badge/-C-424242?style=flat&logo=C">
     <img src="https://img.shields.io/badge/-C++-424242?style=flat&logo=C%2B%2B">
     <img src="https://img.shields.io/badge/-Linux-424242?style=flat&logo=Linux">
 </p>
+
 <p><b>Exploring:</b><br>
     <img src="https://img.shields.io/badge/-Julia-424242?style=flat&logo=Julia">
     <img src="https://img.shields.io/badge/-PyTorch-424242?style=flat&logo=PyTorch">
     <img src="https://img.shields.io/badge/-Tensorflow-424242?style=flat&logo=Tensorflow">
-    <img src="https://img.shields.io/badge/-NumPy-424242?style=flat&logo=Numpy">
-    <img src="https://img.shields.io/badge/-Docker-424242?style=flat&logo=Docker">
+	<img src="https://img.shields.io/badge/-Cuda-424242?style=flat&logo=Nvidia">
+	<img src="https://img.shields.io/badge/-Docker-424242?style=flat&logo=Docker">
 </p>
-</div>
+
+## Featured Projects
+
+<details>
+<summary><b>Systems Projects (webserv, minishell)</b></summary>
+
+### webserv
+HTTP server written in C++ (C++98 standard)
+
+- HTTP/1.1 implementation
+- Non-blocking I/O
+- CGI support
+- Configurable server behavior
+- Focus on performance and architecture
+
+### minishell
+Unix shell written in C
+
+- Command parsing
+- Pipes and redirections
+- Environment variables
+- Built-in commands
+- Process management
+
+</details>
+
+---
 
 <details>
 	<summary>👀</summary>
